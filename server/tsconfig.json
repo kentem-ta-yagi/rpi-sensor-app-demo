@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+
+    "strict": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+
+    "types": ["node"],
+
+    "baseUrl": ".",
+    "paths": {
+      "@shared/*": ["../shared/*"]
+    },
+
+    "outDir": "./dist"
+  },
+  "include": [
+    "src",
+    "../shared"
+  ],
+  "exclude": ["node_modules"]
+}
