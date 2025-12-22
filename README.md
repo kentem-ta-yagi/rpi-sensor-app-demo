@@ -1,6 +1,6 @@
 # React Native(expo) × Hono × mongoDB × Raspberry Pi 5(node-libgpiod) 人感検知＆録画＆検知履歴保存＆通知システム
 
-## 環境構築（ラズパイにOSとnodeが入っており、Expo Goでアプリを起動でき、mongoDBでデータベースを作ってある前提）
+## 環境構築（ラズパイにOSとnodeが入っており、Expo Goでアプリを起動できる前提）
 1. git clone https://github.com/kentem-ta-yagi/rpi-sensor-app-demo.git
 2. mobileフォルダに移動してnpm i
 3. serverフォルダに移動してnpm i
