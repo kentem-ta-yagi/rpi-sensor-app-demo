@@ -1,4 +1,4 @@
-# rpi-sensor-app-demo
+# React Native × Hono × Raspberry Pi 5(node-libgpiod) 人感検知＆検知履歴保存＆通知＆録画システム
 
 ## 環境構築（ラズパイの開発環境が整っている前提）
 1. git clone https://github.com/kentem-ta-yagi/rpi-sensor-app-demo.git
