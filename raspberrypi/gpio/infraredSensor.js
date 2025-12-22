@@ -1,4 +1,3 @@
-// gpio/infraredSensor.js
 import { Chip, Line } from "node-libgpiod";
 
 export const readGPIO = () => {

@@ -5,6 +5,7 @@ import { CONSTS } from "./constant/const.js";
 
 let prevValue = 0;
 let isRecording = false;
+
 setInterval(async () => {
     const value = readGPIO();
 
