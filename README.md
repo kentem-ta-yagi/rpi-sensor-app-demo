@@ -6,4 +6,5 @@
 3. serverフォルダに移動してnpm i
 4. ラズパイの環境で、raspberrypiフォルダに移動してnpm i
 5. server > src > database > connect.ts > uriに自作したmongoDbの接続文字列を入れる
-6. 各自スタートコマンドを実行（mobile: npm start, server: npm run dev, raspberrypi: npm start）
+6. mobileとraspberrypiフォルダのconstant > constにローカルIPアドレスを入力する
+7. 各自スタートコマンドを実行（mobile: npm start, server: npm run dev, raspberrypi: npm start）
