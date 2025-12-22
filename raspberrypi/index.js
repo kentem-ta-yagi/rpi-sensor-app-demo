@@ -1,4 +1,3 @@
-// index.js
 import axios from "axios";
 import { readGPIO } from "./gpio/infraredSensor.js";
 import { recordVideo } from "./camera/recorder.js";
